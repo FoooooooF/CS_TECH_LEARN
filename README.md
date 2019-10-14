@@ -17,6 +17,8 @@
 ##  贡献
 欢迎fork项目，提交你的贡献，共同完善这一份笔记！
 
+笔记最好是依据 `2018 spring`的课程进行整理。
+
 ## 参考
 [CS61B homerowork ](https://github.com/hliang/cs61b)
 
