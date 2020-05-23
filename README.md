@@ -1,10 +1,10 @@
 # CS_TECH_LEARN
-> [计算机科学自学指引](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md) 
+> [计算机科学自学指引](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md) ,课时为200小时左右
 
 ## 指引
 | 科目                                      | 为何要学？                                                                             | 最佳书籍                                                                                                                                      | 最佳视频                          |
 |-------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| **[编程](#编程)**                         | 不要做一个“永远没彻底搞懂”诸如递归等概念的程序员。                                     | _[《计算机程序的构造和解释》](https://book.douban.com/subject/1148282/)_                                                                      | _[ Brian Harvey’s Berkeley CS 61A ](https://www.bilibili.com/video/av40460492/)_    |
+| **[编程](#编程)**                         | 不要做一个“永远没彻底搞懂”诸如递归等概念的程序员。                                     | _[《计算机程序的构造和解释》](https://book.douban.com/subject/1148282/)_   _[电子书](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html)_                                                                   | _[ Brian Harvey’s Berkeley CS 61A ](https://www.bilibili.com/video/av40460492/)_    |
 | **[计算机架构](#计算机架构)**             | 如果你对于计算机如何工作没有具体的概念，那么你所做出的所有高级抽象都是空中楼阁。       | _[《计算机组成与设计》](https://book.douban.com/subject/26604008/)_                                                                           | Berkeley CS 61C                   |
 | **[算法与数据结构](#算法和数据结构)**     | 如果你不懂得如何使用栈、队列、树、图等常见数据结构，遇到有难度的问题时，你将束手无策。 | _[《算法设计手册》](https://book.douban.com/subject/4048566/)_                                                                                | Steven Skiena’s lectures          |
 | **[数学知识](#数学知识)**                 | 计算机科学基本上是应用数学的一个“失控的”分支，因此学习数学将会给你带来竞争优势。       | _[《计算机科学中的数学》](https://book.douban.com/subject/33396340/)_                                                                         | Tom Leighton’s MIT 6.042J         |
@@ -20,6 +20,8 @@
 - CS61C Machine Structures （操作系统）[地址](https://inst.eecs.berkeley.edu/~cs61c/archives.html)
 
 
+## 其它视频资源
+1. [编译原理（哈工大）](https://www.bilibili.com/video/BV1zW411t7YE?from=search&seid=1186181772865917599)
 
 ## 参考
 1. [CS61B homerowork ](https://github.com/hliang/cs61b)
